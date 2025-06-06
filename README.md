@@ -1,11 +1,53 @@
-Hi, My Name is Rohit Kumar. I am a CSE student.
+<p align="center">
+  <img src="assets/amazon-clone-banner.png" alt="Amazon Clone Banner" width="100%" />
+</p>
 
-I made a beautiful & similar website "Amazon" (Only Covers HTML & CSS Parts in this repository).
+<h1 align="center">🛒 Amazon Frontend Clone</h1>
 
-In this Front-End project, I have developed a clone of the Amazon homepage using only HTML and CSS. This project is aimed at enhancing my knowledge and skills in the field of Web Development, particularly in front-end programming. The clone focuses on replicating the layout and styling of Amazon's homepage, without adding any interactive functionality or animations.
+<p align="center">
+  A pixel-perfect responsive clone of Amazon's homepage built using pure HTML & CSS.<br/>
+  This project focuses on UI/UX structure, responsiveness, and layout replication.
+</p>
 
-The project helped me gain hands-on experience in using HTML and CSS for building responsive and visually appealing webpages.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rkstm7.amazon-frontend-clone" />
+</p>
 
-Contact Us: Email Id- rkstm9@gmail.com LinkedIn Id- /rkstm7
+---
 
-                                                *** Thank You***
+## 📌 Project Overview
+
+This project is a **frontend-only clone** of the Amazon India homepage. It replicates the overall design, layout, and navigation features using only **HTML and CSS**, without any JavaScript functionality.
+
+---
+
+## 🎯 Features
+
+- ✅ Responsive layout for desktop and mobile
+- ✅ Header with Amazon logo, search bar, and nav links
+- ✅ Hero section with sliding banners (static)
+- ✅ Product cards grid
+- ✅ Footer with Amazon-style links and layout
+
+---
+
+## 🧰 Tech Stack
+
+| Technology | Description               |
+|------------|---------------------------|
+| HTML5      | Page structure & elements |
+| CSS3       | Styling, layout, flexbox  |
+| Media Query| For responsive behavior   |
+
+---
+
+## 🖼️ Screenshot
+
+> 📌 Local image preview stored in `assets/amazon-clone-banner.png`  
+> Replace the image with a real screenshot of your project homepage.
+
+```html
+<img src="assets/amazon-clone-banner.png" alt="Amazon Clone Preview" width="100%" />
